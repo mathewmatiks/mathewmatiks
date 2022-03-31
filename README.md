@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mathewmatiks
+- 👀 I’m interested in programming for video games
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on simple coding problems
+- 📫 How to reach me ...
