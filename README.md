@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mathewmatiks
-- 👀 I’m interested in programming for video games
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on simple coding problems
-- 📫 How to reach me ...
+- 👀 I’m interested in 3D Environment Art for Games
+- 🌱 I’m currently learning UE5 and Unity
+- 📫 How to reach me 
