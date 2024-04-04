@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matvey
-- 👀 I’m interested in 3D Environment Art for Games
-- 🌱 I’m currently learning UE5 and Unity
+- 👀 I’m a 3D Environment Artist
+- 🌱 Primarily work in Unreal
 - 📫 How to reach me 
