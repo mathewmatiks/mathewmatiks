@@ -1,4 +1,27 @@
-- 👋 Hi, I’m Matvey
-- 👀 I’m a 3D Environment Artist
-- 🌱 Primarily work in Unreal
-- 📫 How to reach me 
+Environemnt Artist
+
+Skills:
+Hard Surface Modeling
+Subdivision Modeling
+Digital Sculpting
+Modular Kits
+Trim Sheets
+Tileable Textures
+Texture Baking
+Texturing
+Photogrammetry
+UV Mapping
+Retopology
+PBR Workflows
+
+Softwares:
+Autodesk Maya
+Zbrush
+Substance Painter
+Substance Stager
+Unreal Engine 5
+Perforce
+Reality Capture
+Photoshop
+Illustrator
+GIT
