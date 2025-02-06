@@ -1,4 +1,4 @@
-Environemnt Artist
+3D Environemnt Artist
 
 Skills:
 - Hard Surface Modeling
